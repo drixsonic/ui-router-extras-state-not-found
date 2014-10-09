@@ -10,7 +10,7 @@ Using:
 * UI-Router Extras
 * ocLazyLoad
 
-# Notice:
+### Notice:
 
 In this case ct-ui-router-extras.js has been slightly modified to illustrate the following pull-request on the ui-router-extras repository:
 https://github.com/christopherthielen/ui-router-extras/pull/77
